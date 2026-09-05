@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>九州新婚蜜月賞楓地圖 (熊本機場進出 11/20~11/24 版)</name>
+
+  <Folder>
+    <name>Day 1：熊本機場取車 ➔ 菊池溪谷 ➔ 大觀峰 ➔ 黑川溫泉</name>
+    <Placemark>
+      <name>阿蘇熊本空港（取車）</name>
+      <description><![CDATA[Day 1 起點：阿蘇熊本機場租車取車。]]></description>
+      <Point><coordinates>130.8550000,32.8372000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>菊池溪谷</name>
+      <description><![CDATA[九州著名的自然森林步道，清澈見底的溪流與瀑布映襯著濃密的紅葉。]]></description>
+      <Point><coordinates>130.9464583,33.0031556,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>阿蘇大觀峰</name>
+      <description><![CDATA[俯瞰巨大的阿蘇火山口與破火山口平原。秋季周邊山丘覆蓋著金黃芒草與楓紅。]]></description>
+      <Point><coordinates>131.0670948,32.9956615,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>黑川溫泉（住宿）</name>
+      <description><![CDATA[隱身於山林溪谷間的古樸溫泉鄉，秋天溪流兩旁紅葉鋪地。穿浴衣泡溫泉極致浪漫。]]></description>
+      <Point><coordinates>131.1419381,33.0777131,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Day 2：山波公路 ➔ 九重夢大吊橋 ➔ 耶馬溪 ➔ 由布院溫泉</name>
+    <Placemark>
+      <name>九重「夢」大吊橋</name>
+      <description><![CDATA[日本最高的人行吊橋，漫步橋上可360度遠眺九醉溪谷全景。]]></description>
+      <Point><coordinates>131.2270660,33.1741770,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>九醉溪（九酔渓）</name>
+      <description><![CDATA[秋季時山谷被染成一片熾紅與金黃，兩旁夾道的楓葉形成絕美紅葉隧道。]]></description>
+      <Point><coordinates>131.2244400,33.1752800,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>耶馬溪 / 一目八景</name>
+      <description><![CDATA[日本三大奇勝之一，展望台可同時欣賞八座奇岩怪石與滿山紅葉。]]></description>
+      <Point><coordinates>131.1651282,33.3712227,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>由布院溫泉（住宿）</name>
+      <description><![CDATA[入住高質感日式溫泉旅館，享受雙人私人風呂與精緻懷石料理。]]></description>
+      <Point><coordinates>131.3555210,33.2625440,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Day 3：金鱗湖 ➔ 佐賀九年庵 ➔ 環境藝術之森 ➔ 熊本市區</name>
+    <Placemark>
+      <name>金鱗湖</name>
+      <description><![CDATA[清晨的金鱗湖湖面常有晨霧繚繞，紅黃相間的楓葉映照在湖面上。]]></description>
+      <Point><coordinates>131.3690386,33.2667196,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>九年庵（11/14-11/29限定開放）</name>
+      <description><![CDATA[每年僅在 11 月中下旬限時開放的秘境庭園。苔蘚綠地與滿園紅葉形成鮮明對比。]]></description>
+      <Point><coordinates>130.3637265,33.3572228,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>環境藝術之森（環境芸術の森）</name>
+      <description><![CDATA[佐賀秋天最紅絕景！館內漆面漆桌完美反射出窗外滿山鮮紅楓葉（倒影照）。]]></description>
+      <Point><coordinates>130.0767341,33.3504935,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>熊本市區（住宿）</name>
+      <description><![CDATA[Day 3 住宿地點，位於熊本市中心。]]></description>
+      <Point><coordinates>130.7082737,32.8033909,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Day 4：熊本市 ➔ 高千穗峽划船 ➔ 熊本市區購物</name>
+    <Placemark>
+      <name>高千穗峽</name>
+      <description><![CDATA[柱狀節理懸崖峭壁與真名井瀑布交織，秋季崖頂點綴著燦爛紅葉。租借小船在峽谷中划船。]]></description>
+      <Point><coordinates>131.3009390,32.7017851,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>熊本市區/通町筋</name>
+      <description><![CDATA[熊本最繁華的購物商圈與美食地帶。]]></description>
+      <Point><coordinates>130.7100000,32.8010000,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Day 5：熊本城 ➔ 阿蘇熊本空港（還車搭機）</name>
+    <Placemark>
+      <name>熊本城</name>
+      <description><![CDATA[日本三大名城之一，天守閣與周邊大銀杏樹在秋季呈現一片金黃。]]></description>
+      <Point><coordinates>130.7058330,32.8061110,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>阿蘇熊本空港（還車）</name>
+      <description><![CDATA[Day 5 終點：阿蘇熊本機場還車搭機返台。]]></description>
+      <Point><coordinates>130.8550000,32.8372000,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>延伸口袋名單</name>
+    <Placemark>
+      <name>由布岳展望所</name>
+      <description><![CDATA[可開車前往由布岳山麓展望所，俯瞰由布院盆地的秋季金黃與楓紅全景。]]></description>
+      <Point><coordinates>131.3902373,33.2822897,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>雷山千如寺大悲王院</name>
+      <description><![CDATA[寺內有約400年樹齡的日本大楓樹（福岡縣天然紀念物）。]]></description>
+      <Point><coordinates>130.2285830,33.4946110,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
