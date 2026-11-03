@@ -1,129 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>九州新婚蜜月賞楓地圖 (11/15~11/19 星宇 JX846/847 熊本進出精確版)</name>
+  <name>九州新婚蜜月自駕賞楓地圖 (11/15~11/19 星宇航空 JX846/847 定案版)</name>
 
   <Folder>
-    <name>Day 1 (11/15 週日)：熊本機場取車 ➔ 菊池溪谷 ➔ 阿蘇大觀峰 ➔ 黑川溫泉</name>
+    <name>Day 1 (11/15 週日)：熊本機場 ➔ 大津休息站 ➔ 菊池溪谷 ➔ 大觀峰 ➔ 黑川 森の樹木</name>
     <Placemark>
-      <name>阿蘇熊本空港（12:15取車）</name>
-      <description><![CDATA[Day 1 起點：11:00 降落阿蘇熊本機場（JX 846），辦理入境與租車取車。]]></description>
+      <name>阿蘇熊本機場 / Budget 熊本空港店（12:15取車）</name>
+      <description><![CDATA[Day 1 起點：11:00 降落阿蘇熊本機場（JX 846），搭乘接駁車至 Budget 取車驗車。]]></description>
       <Point><coordinates>130.8550000,32.8372000,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>菊池溪谷</name>
-      <description><![CDATA[九州名瀑與清澈溪流，兩旁被濃密紅葉覆蓋（車程約35分鐘，步道漫步1.5小時）。]]></description>
+      <name>道の駅 大津（午餐・小吃）</name>
+      <description><![CDATA[【午餐/小吃】：阿蘇赤牛丼名店「よかよか」，戶外攤位有現炸赤牛可樂餅與大津名物蜜地瓜鯛魚燒（車程約10分鐘）。]]></description>
+      <Point><coordinates>130.8718742,32.8797964,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>菊池溪谷（賞楓精華短步道）</name>
+      <description><![CDATA[【九州名瀑與楓紅】：走平緩好走的「療癒精華短步道（癒しコース，約1公里）」，欣賞綠寶石溪流與紅葉瀨，無長階梯（車程約40分鐘）。]]></description>
       <Point><coordinates>130.9464583,33.0031556,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>阿蘇大觀峰</name>
-      <description><![CDATA[俯瞰巨大的阿蘇火山口與金黃芒草全景（車程約25分鐘）。]]></description>
+      <name>菊池阿蘇天際線 (スカイライン)</name>
+      <description><![CDATA[九州知名景觀自駕公路，穿梭森林直上外輪山脊（車程約35分鐘）。]]></description>
+      <Point><coordinates>131.0000000,33.0100000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>阿蘇大觀峰（夕陽黃金時段）</name>
+      <description><![CDATA[【破火山口夕陽】：下車走平緩路3分鐘，俯瞰阿蘇破火山口與阿蘇五岳，秋季滿山金黃芒草波浪（車程約15分鐘）。]]></description>
       <Point><coordinates>131.0670948,32.9956615,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>黑川溫泉（住宿）</name>
-      <description><![CDATA[隱身於山林溪谷間的古樸溫泉鄉，入住日式溫泉旅館，穿浴衣享私人露天風呂（車程約30分鐘）。]]></description>
+      <name>道の駅 小国 ゆうステーション</name>
+      <description><![CDATA[【特色休息站】：倒立玻璃金字塔建築，必吃「OGUNIYA JERSEY」小國澤西生乳霜淇淋，採買小木屋宵夜（車程約20分鐘）。]]></description>
+      <Point><coordinates>131.0645600,33.1235100,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>黒川 森の樹木（住宿 Day 1 & Day 2）</name>
+      <description><![CDATA[【蜜月住宿】：南小國町天然溫泉獨棟小木屋（貸別荘），附專屬碳酸水素鹽泉露天風呂與廚房（車程約12分鐘）。]]></description>
+      <Point><coordinates>131.1512518,33.0714716,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Day 2 (11/16 週一)：山波公路 ➔ 九重夢大吊橋/九醉溪 ➔ 由布院商圈/金鱗湖 ➔ 返黑川溫泉</name>
+    <Placemark>
+      <name>山波快速道路 (やまなみハイウェイ)</name>
+      <description><![CDATA[日本百名道之一，沿途穿越芒草金黃與秋葉點綴的九重連峰（翻越牧之戶峠 1,330m）。]]></description>
+      <Point><coordinates>131.2150000,33.1200000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>九重「夢」大吊橋</name>
+      <description><![CDATA[日本最高人行吊橋，漫步橋上360度遠眺溪谷紅葉與震動之瀑（車程約35分鐘）。]]></description>
+      <Point><coordinates>131.2270660,33.1741770,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>九醉溪（九酔渓）</name>
+      <description><![CDATA[全九州最壯觀的滿山溪谷紅葉，夾道楓葉形成絕美紅葉隧道。]]></description>
+      <Point><coordinates>131.2244400,33.1752800,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>由布院 / 湯之坪街道</name>
+      <description><![CDATA[散策逛街吃甜點（Milch半熟乳酪、金賞可樂餅），享用地雞飯午餐（車程約40分鐘）。]]></description>
+      <Point><coordinates>131.3555210,33.2625440,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>金鱗湖</name>
+      <description><![CDATA[秋季金鱗湖畔紅葉映照湖面，美不勝收。]]></description>
+      <Point><coordinates>131.3690386,33.2667196,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>黑川溫泉街（湯手形泡湯散策）</name>
+      <description><![CDATA[返回黑川溫泉老街，購買湯手形體驗各日式旅館秘境露天風呂（車程約55分鐘）。]]></description>
       <Point><coordinates>131.1419381,33.0777131,0</coordinates></Point>
     </Placemark>
   </Folder>
 
   <Folder>
-    <name>Day 2 (11/16 週一)：山波公路 ➔ 九重夢大吊橋/九醉溪 ➔ 耶馬溪 ➔ 由布院溫泉</name>
+    <name>Day 3 (11/17 週二)：黒川退房 ➔ 上色見熊野座神社 ➔ 高千穗峽划船 ➔ 熊本市區</name>
     <Placemark>
-      <name>山波快速道路 (やまなみハイウェイ)</name>
-      <description><![CDATA[日本百名道之一，沿途穿越芒草金黃與秋葉點綴的九重連峰。]]></description>
-      <Point><coordinates>131.2150000,33.1200000,0</coordinates></Point>
+      <name>上色見熊野座神社</name>
+      <description><![CDATA[【IG爆紅神秘森林】：近百座苔蘚石燈籠與參天杉木林立的森林參道，仙氣逼人（車程約45分鐘）。]]></description>
+      <Point><coordinates>131.1736110,32.8322220,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>九重「夢」大吊橋</name>
-      <description><![CDATA[日本最高的人行吊橋，漫步橋上可360度遠眺溪谷全景（車程約30分鐘）。]]></description>
-      <Point><coordinates>131.2270660,33.1741770,0</coordinates></Point>
+      <name>高千穗峽（划船賞楓）</name>
+      <description><![CDATA[【峽谷划船名瀑】：已預約划船體驗，在柱狀節理峭壁與真名井瀑布間划船賞楓，午餐享用高千穗牛（車程約45分鐘）。]]></description>
+      <Point><coordinates>131.3009390,32.7017851,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>九醉溪（九酔渓）</name>
-      <description><![CDATA[秋季時山谷被染成一片熾紅與金黃，兩旁夾道的楓葉形成絕美紅葉隧道。]]></description>
-      <Point><coordinates>131.2244400,33.1752800,0</coordinates></Point>
+      <name>道の駅 通潤橋</name>
+      <description><![CDATA[【2024全新開幕休息站】：國寶「通潤橋」旁，上高速公路回熊本前之中繼站（車程約30分鐘）。]]></description>
+      <Point><coordinates>130.9950000,32.6820000,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>耶馬溪 / 一目八景</name>
-      <description><![CDATA[日本三大奇勝之一，展望台可同時欣賞八座奇岩怪石與滿山紅葉（車程約45分鐘）。]]></description>
-      <Point><coordinates>131.1651282,33.3712227,0</coordinates></Point>
+      <name>大和ROYNET飯店 熊本銀座通店（住宿 Day 3 & Day 4）</name>
+      <description><![CDATA[【熊本市區住宿】：位於新市街/銀座通商圈，下樓即是下通商店街，近勝烈亭與熊本城（車程約1小時10分）。]]></description>
+      <Point><coordinates>130.7071073,32.8007605,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>由布院溫泉（住宿）</name>
-      <description><![CDATA[入住高級日式溫泉旅館，下午逛湯之坪街道吃甜點，享用懷石料理（車程約50分鐘）。]]></description>
-      <Point><coordinates>131.3555210,33.2625440,0</coordinates></Point>
+      <name>勝烈亭 新市街總店</name>
+      <description><![CDATA[【晚餐推薦】：米其林推薦鹿兒島黑豚炸豬排，距離大和ROYNET飯店步行僅3分鐘。]]></description>
+      <Point><coordinates>130.7061110,32.7994440,0</coordinates></Point>
     </Placemark>
   </Folder>
 
   <Folder>
-    <name>Day 3 (11/17 週二)：金鱗湖 ➔ 佐賀九年庵 ➔ 環境藝術之森 ➔ 熊本市區</name>
+    <name>Day 4 (11/18 週三)：熊本出發 ➔ 佐賀九年庵 ➔ 環境藝術之森 ➔ 熊本市區購物</name>
     <Placemark>
-      <name>金鱗湖</name>
-      <description><![CDATA[清晨的金鱗湖湖面常有晨霧繚繞，紅黃相間的楓葉映照在湖面上。]]></description>
-      <Point><coordinates>131.3690386,33.2667196,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>佐賀 九年庵（11/14-11/29限定開放）</name>
-      <description><![CDATA[每年僅在11月中下旬限時開放的秘境庭園。苔蘚綠地與滿園紅葉形成鮮明對比（車程約1.2小時）。]]></description>
+      <name>佐賀 九年庵（秋季限定9天開放）</name>
+      <description><![CDATA[【每年僅開放9天之秘境】：數寄屋建築日式庭園，金紅楓葉倒映在綠色苔蘚地毯上（車程約1小時15分）。]]></description>
       <Point><coordinates>130.3637265,33.3572228,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>環境藝術之森（環境芸術の森）</name>
-      <description><![CDATA[佐賀秋天最紅絕景！館內「風遊山莊」漆面漆桌完美反射出窗外滿山鮮紅楓葉（車程約35分鐘）。]]></description>
+      <description><![CDATA[【九州秋楓第一絕景】：走訪風遊山莊，拍攝漆桌倒映窗外滿山萬本紅葉的世紀倒影照（車程約45分鐘）。]]></description>
       <Point><coordinates>130.0767341,33.3504935,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>熊本市區（住宿）</name>
-      <description><![CDATA[入住熊本市區飯店，晚上享用熊本黑豚燒肉或馬肉料理（車程約1.2小時）。]]></description>
+      <name>金立 SA（長崎自動車道）</name>
+      <description><![CDATA[【高速公路名物】：必買熱銷20年之「金立哈密瓜麵包（金立メロンパン）」。]]></description>
+      <Point><coordinates>130.3160000,33.3080000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>熊本下通 / 鶴屋百貨商圈</name>
+      <description><![CDATA[返回熊本市區逛街採買藥妝、伴手禮，晚餐享用熊本拉麵或居酒屋料理。]]></description>
       <Point><coordinates>130.7082737,32.8033909,0</coordinates></Point>
     </Placemark>
   </Folder>
 
   <Folder>
-    <name>Day 4 (11/18 週三)：熊本市 ➔ 高千穗峽划船 ➔ 熊本市區購物</name>
+    <name>Day 5 (11/19 週四)：熊本城 ➔ 阿蘇熊本機場（10:35還車搭機）</name>
     <Placemark>
-      <name>高千穗峽</name>
-      <description><![CDATA[柱狀節理懸崖峭壁與真名井瀑布交織（已預約10:30划船賞楓，車程約1.2小時）。]]></description>
-      <Point><coordinates>131.3009390,32.7017851,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>天安河原</name>
-      <description><![CDATA[漫步前往高千穗神話疊石洞窟。]]></description>
-      <Point><coordinates>131.3120000,32.7150000,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>熊本通町筋 / 下通商圈</name>
-      <description><![CDATA[返回熊本市區購物採買伴手禮，享用勝烈亭豬排。]]></description>
-      <Point><coordinates>130.7100000,32.8010000,0</coordinates></Point>
-    </Placemark>
-  </Folder>
-
-  <Folder>
-    <name>Day 5 (11/19 週四)：熊本城 ➔ 阿蘇熊本空港（10:35還車）</name>
-    <Placemark>
-      <name>熊本城</name>
-      <description><![CDATA[日本三大名城之一，欣賞天守閣與秋季巨型金黃銀杏樹（車程約10分鐘）。]]></description>
+      <name>熊本城 / 城彩苑</name>
+      <description><![CDATA[【日本三大名城】：欣賞天守閣與秋季巨大的「金黃銀杏樹（銀杏城）」、城彩苑散策（飯店開車5分鐘）。]]></description>
       <Point><coordinates>130.7058330,32.8061110,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>阿蘇熊本空港（10:35還車搭機）</name>
-      <description><![CDATA[Day 5 終點：10:35 完成還車，搭乘 12:15 星宇 JX 847 返回台北。]]></description>
+      <name>阿蘇熊本機場 / Budget 還車（10:35還車）</name>
+      <description><![CDATA[【還車返台】：10:35 前於機場5km內加滿油並完成還車，搭乘接駁車至航廈，搭乘 12:15 星宇 JX 847 返回台北。]]></description>
       <Point><coordinates>130.8550000,32.8372000,0</coordinates></Point>
-    </Placemark>
-  </Folder>
-
-  <Folder>
-    <name>延伸口袋名單</name>
-    <Placemark>
-      <name>由布岳展望所</name>
-      <description><![CDATA[可開車前往由布岳山麓展望所，俯瞰由布院盆地的秋季金黃與楓紅全景。]]></description>
-      <Point><coordinates>131.3902373,33.2822897,0</coordinates></Point>
-    </Placemark>
-    <Placemark>
-      <name>雷山千如寺大悲王院</name>
-      <description><![CDATA[寺內有約400年樹齡的日本大楓樹（福岡縣天然紀念物）。]]></description>
-      <Point><coordinates>130.2285830,33.4946110,0</coordinates></Point>
     </Placemark>
   </Folder>
 
