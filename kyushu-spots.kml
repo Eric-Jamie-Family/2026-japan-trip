@@ -94,14 +94,24 @@
       <Point><coordinates>130.9950000,32.6820000,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>大和ROYNET飯店 熊本銀座通店（住宿 Day 3 & Day 4）</name>
-      <description><![CDATA[【熊本市區住宿】：位於新市街/銀座通商圈，下樓即是下通商店街，近勝烈亭與熊本城（車程約1小時10分）。]]></description>
-      <Point><coordinates>130.7071073,32.8007605,0</coordinates></Point>
+      <name>ハンズマン 画図店</name>
+      <description><![CDATA[【九州超大型居家生活巨蛋】：28萬件商品！日系餐具廚具、園藝手作、戶外露營、生活日用品旗艦店（營業至22:00，免費大停車場）。]]></description>
+      <Point><coordinates>130.7327000,32.7663000,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>勝烈亭 新市街總店</name>
-      <description><![CDATA[【晚餐推薦】：米其林推薦鹿兒島黑豚炸豬排，距離大和ROYNET飯店步行僅3分鐘。]]></description>
-      <Point><coordinates>130.7061110,32.7994440,0</coordinates></Point>
+      <name>セカンドストリート 熊本南店 (2nd STREET)</name>
+      <description><![CDATA[【大型二手古著名品挖寶】：嚴選品牌男女服飾、包款配件、日系生活雜貨（營業至20:00，附專屬免費停車場）。]]></description>
+      <Point><coordinates>130.6970000,32.7745000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>味噌乃家 十禅寺店（晚餐推薦）</name>
+      <description><![CDATA[【晚餐・炭火炙燒味噌拉麵】：香濃爆炒蔬菜豆芽＋特厚炙燒叉燒＋熟成味噌高湯，在地人超人氣名店（附專屬免費停車場）。]]></description>
+      <Point><coordinates>130.6995000,32.7801000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>大和ROYNET飯店 熊本銀座通店（住宿 Day 3 & Day 4）</name>
+      <description><![CDATA[【熊本市區住宿】：位於新市街/銀座通商圈，下樓即是下通商店街（車程約8分鐘）。]]></description>
+      <Point><coordinates>130.7071073,32.8007605,0</coordinates></Point>
     </Placemark>
   </Folder>
 
